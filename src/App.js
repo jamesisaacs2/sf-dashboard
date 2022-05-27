@@ -40,6 +40,6 @@ export default App;
 
 /* Notes
 
-
+https://youtu.be/jx5hdo50a2M?t=1781
 
 */
